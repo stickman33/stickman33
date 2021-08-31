@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stickman33
-- 👀 I’m interested in sports, games, Python
+- 👀 I’m interested in sports, videogames, Python
 - 🌱 I’m currently learning Java
 - 📫 How to contact me: https://t.me/stickmanyo
 
