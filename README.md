@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames, travelling, Python
 - 🌱 I’m currently learning GO
 - 📫 How to contact me:  
-     <img src="https://www.vectorico.com/download/social_media/Telegram-Icon.png" alt="drawing" width="15"/> https://t.me/stickmanwastaken <br>
+     <img src="telegram.png" alt="drawing" width="16"/> &nbsp;https://t.me/stickmanwastaken <br>
      📧 ussread@ya.ru
 
 <!---
